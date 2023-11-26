@@ -39,7 +39,7 @@ Its an implementation of classic road fighter NES game with HTML5 Canvas and Typ
 ### 1. Clone repository
 
 ```
-git clone https://github.com/pg07codes/road-fighter
+git clone https://github.com/Hasan2431/road-fighter
 ```
 
 ### 2. Enter into cloned repo
